@@ -1,0 +1,3 @@
+[submodule "scrollorama"]
+	path = scrollorama
+	url = https://github.com/johnpolacek/superscrollorama.git
